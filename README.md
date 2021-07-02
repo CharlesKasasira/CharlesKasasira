@@ -3,9 +3,9 @@
 <h2></h2>
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-🌱 I’m currently learning javascript
-👯 I’m looking to collaborate on projects
-📫 How to reach me: charleskasasira01@gmail.com
+🌱 I’m currently learning javascript <br />
+👯 I’m looking to collaborate on projects <br />
+📫 How to reach me: charleskasasira01@gmail.com <br />
 ⚡ Fun fact: worked as a graphics designer before
 <h2></h2>
 

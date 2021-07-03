@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Charles here</h1>
-<h3 align="center"> Working my way to a front-end developer & UI/UX designer</h3>
+<h3 align="center">front-end developer & UI/UX designer</h3>
 <h2></h2>
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
@@ -10,7 +10,7 @@
 <h2></h2>
 
 <h2>💻 Checkout my Portfolio <a href="https://charleskasasira.github.io">here</a></h2>
-<br> <br>
+<br> 
 
  <h2> 🛠 &nbsp;Tech Stack</h3>
  
@@ -31,9 +31,9 @@
   <br/>
 <h2>🔗 Social Links </h2>
 <p>
-<a href="https://github.com/CharlesKasasira" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> 
  <a href="http://www.linkedin.com/in/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> </a> 
-  <a href="https://twitter.com/CharlesKasasira" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Twitter' height='40'></a>   
+
+  <a href="https://twitter.com/KasasiraC" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Twitter' height='40'></a>   
 </p>
 <br/>
 

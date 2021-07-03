@@ -1,9 +1,8 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Charles here</h1>
+<h1 align="center">Hi <img src="./assets/Hi.gif" width="29px">, Charles here</h1>
 <h3 align="center">front-end developer & UI/UX designer</h3>
 <h2></h2>
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-🌱 I’m currently learning javascript <br />
 👯 I’m looking to collaborate on projects <br />
 📫 How to reach me: charleskasasira01@gmail.com <br />
 ⚡ Fun fact: worked as a graphics designer before

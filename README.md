@@ -6,12 +6,13 @@
 👯 I’m looking to collaborate on projects <br />
 📫 How to reach me: charleskasasira01@gmail.com <br />
 ⚡ Fun fact: worked as a graphics designer before
-<h2></h2>
 
 <h2>💻 Checkout my Portfolio <a href="https://charleskasasira.github.io">here</a></h2>
+<h2></h2>
+
 <br> 
 
- <h2> 🛠 &nbsp;Tech Stack</h3>
+ <h2> 🛠 &nbsp;Skills and Tools</h3>
  
  🌐 &nbsp;
  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -30,9 +31,9 @@
   <br/>
 <h2>🔗 Social Links </h2>
 <p>
- <a href="http://www.linkedin.com/in/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> </a> 
+ <a href="http://www.linkedin.com/in/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'> </a> 
 
-  <a href="https://twitter.com/KasasiraC" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Twitter' height='40'></a>   
+  <a href="https://twitter.com/KasasiraC" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Twitter' height='30'></a>   
 </p>
 <br/>
 

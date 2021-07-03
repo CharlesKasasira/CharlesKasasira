@@ -1,7 +1,5 @@
 <h1 align="center">Hi <img src="./assets/Hi.gif" width="29px">, Charles here</h1>
 <h3 align="center">front-end developer & UI/UX designer</h3>
-<h2></h2>
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 👯 I’m looking to collaborate on projects <br />
 📫 How to reach me: charleskasasira01@gmail.com <br />
@@ -9,8 +7,6 @@
 
 <h2>💻 Checkout my Portfolio <a href="https://charleskasasira.github.io">here</a></h2>
 <h2></h2>
-
-<br> 
 
  <h2> 🛠 &nbsp;Skills and Tools</h3>
  
@@ -32,7 +28,6 @@
 <h2>🔗 Social Links </h2>
 <p>
  <a href="http://www.linkedin.com/in/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'> </a> 
-
   <a href="https://twitter.com/KasasiraC" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Twitter' height='30'></a>   
 </p>
 <br/>

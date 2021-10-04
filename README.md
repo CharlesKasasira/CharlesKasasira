@@ -1,11 +1,10 @@
 <h1 align="center">Hi <img src="./assets/Hi.gif" width="29px">, Charles here</h1>
-<h3 align="center">front-end developer & UI/UX designer</h3>
+<h3 align="center">Junior Full-Stack developer</h3>
 
 👯 I’m looking to collaborate on projects <br />
 📫 How to reach me: charleskasasira01@gmail.com <br />
 ⚡ Fun fact: worked as a graphics designer before
-
-<h2>💻 Checkout my Portfolio <a href="https://charleskasasira.github.io">here</a></h2>
+💻<a href="https://charleskasasira.github.io">Checkout my Portfolio</a>
 
  <h2> 🛠 &nbsp;Skills and Tools</h3>
  

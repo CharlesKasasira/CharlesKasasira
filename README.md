@@ -3,7 +3,7 @@
 
 👯 I’m looking to collaborate on projects <br />
 📫 How to reach me: charleskasasira01@gmail.com <br />
-⚡ Fun fact: worked as a graphics designer before
+⚡ Fun fact: worked as a graphics designer before <br />
 💻<a href="https://charleskasasira.github.io">Checkout my Portfolio</a>
 
  <h2> 🛠 &nbsp;Skills and Tools</h3>

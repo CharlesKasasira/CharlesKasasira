@@ -11,16 +11,16 @@
  <h2> 🛠 &nbsp;Skills and Tools</h3>
  
  🌐 &nbsp;
- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)![image](https://user-images.githubusercontent.com/59878203/141532551-63afff11-a28f-43a8-b77b-baaf98e7790e.png)
+ ![image](https://user-images.githubusercontent.com/59878203/141532551-63afff11-a28f-43a8-b77b-baaf98e7790e.png)
+ ![image](https://user-images.githubusercontent.com/59878203/141532802-9ee710af-d3c4-427d-b2b3-8416c36ee1cf.png)
+ ![image](https://user-images.githubusercontent.com/59878203/141532878-adf17acc-e5a4-4a55-9f23-f20891610a98.png)
+ ![image](https://user-images.githubusercontent.com/59878203/141532844-277a3b2f-69ce-425e-bd9a-9f687eb48842.png)
+ ![image](https://user-images.githubusercontent.com/59878203/141532717-81b6cf3b-b29f-46a7-8af1-3a8470c25e7b.png)
 
- ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
- ![Sass](https://img.shields.io/badge/sass-sass-red)
- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
  
  🛢 &nbsp;
- ![Node.js](https://img.shields.io/badge/node.js-node.js-success)
+ ![image](https://user-images.githubusercontent.com/59878203/141532767-f76412f0-88fb-4496-8dba-7f29ec377b88.png)
  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
  ![MongoDB](https://img.shields.io/badge/-MongoDB-success)
  

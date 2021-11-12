@@ -36,7 +36,7 @@
   <br/>
 <h2>🔗 Social Links </h2>
 <p>
- <a href="http://www.linkedin.com/in/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'> </a> 
+  <a href="http://www.linkedin.com/in/charleskasasira" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'> </a> 
   <a href="https://twitter.com/KasasiraC" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Twitter' height='30'></a>   
 </p>
 <br/>

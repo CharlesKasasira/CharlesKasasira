@@ -16,15 +16,16 @@
  ![image](https://user-images.githubusercontent.com/59878203/141532878-adf17acc-e5a4-4a55-9f23-f20891610a98.png)
  ![image](https://user-images.githubusercontent.com/59878203/141532844-277a3b2f-69ce-425e-bd9a-9f687eb48842.png)
  ![image](https://user-images.githubusercontent.com/59878203/141532717-81b6cf3b-b29f-46a7-8af1-3a8470c25e7b.png)
-
-
+ ![image](https://user-images.githubusercontent.com/59878203/141533080-02cca125-ebfa-47c0-80a1-2864372b3ce2.png)
  
  🛢 &nbsp;
  ![image](https://user-images.githubusercontent.com/59878203/141532767-f76412f0-88fb-4496-8dba-7f29ec377b88.png)
+ ![image](https://user-images.githubusercontent.com/59878203/141533143-a2556695-2c8e-49fc-b88c-ed51b38bbfe0.png)
  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
- ![MongoDB](https://img.shields.io/badge/-MongoDB-success)
+ ![image](https://user-images.githubusercontent.com/59878203/141533024-1854dcf1-0b3d-4c74-9ea9-deda1da30fbb.png)
  
  ⚙️ &nbsp;
+ ![image](https://user-images.githubusercontent.com/59878203/141533202-d9174858-9d0a-4069-9f65-20d18907d290.png)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)

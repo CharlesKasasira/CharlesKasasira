@@ -11,7 +11,8 @@
  <h2> 🛠 &nbsp;Skills and Tools</h3>
  
  🌐 &nbsp;
- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+ ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)![image](https://user-images.githubusercontent.com/59878203/141532551-63afff11-a28f-43a8-b77b-baaf98e7790e.png)
+
  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
  ![Sass](https://img.shields.io/badge/sass-sass-red)

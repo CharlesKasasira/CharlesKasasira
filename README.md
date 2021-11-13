@@ -34,6 +34,10 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
   <br/>
+  
+  [![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=charleskasasira)](https://github.com/charleskasasira/github-readme-stats)
+
+  <br />
 <h2>🔗 Social Links </h2>
 <p>
   <a href="http://www.linkedin.com/in/charleskasasira" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'> </a> 

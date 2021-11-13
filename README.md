@@ -35,7 +35,7 @@
   
   <br/>
   
-  [![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=charleskasasira)
+  [![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=charleskasasira&hide=issues)
 
   <br />
 <h2>🔗 Social Links </h2>

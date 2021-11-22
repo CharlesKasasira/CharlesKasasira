@@ -35,7 +35,6 @@
   
   <br/>
   
-  [![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=charleskasasira&hide=issues&show_icons=true&theme=dracula&count_private=true)
 
   <br />
 <h2>🔗 Social Links </h2>

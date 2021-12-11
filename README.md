@@ -20,6 +20,7 @@
  ![image](https://user-images.githubusercontent.com/59878203/141533143-a2556695-2c8e-49fc-b88c-ed51b38bbfe0.png)
  ![image](https://user-images.githubusercontent.com/59878203/141533024-1854dcf1-0b3d-4c74-9ea9-deda1da30fbb.png)
  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
+ ![C#](https://img.shields.io/badge/-C%20Sharp-white?&style=for-the-badge&logo=c%20sharp&logoColor=239120)
   ![image](https://user-images.githubusercontent.com/59878203/141533202-d9174858-9d0a-4069-9f65-20d18907d290.png)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)

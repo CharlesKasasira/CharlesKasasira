@@ -21,6 +21,7 @@
  ![image](https://user-images.githubusercontent.com/59878203/141533024-1854dcf1-0b3d-4c74-9ea9-deda1da30fbb.png)
  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
  ![C#](https://img.shields.io/badge/-C%20Sharp-white?&style=for-the-badge&logo=c%20sharp&logoColor=239120)
+ ![Unity](https://img.shields.io/badge/-Unity-000000?&style=for-the-badge&logo=unity&logoColor=white)
   ![image](https://user-images.githubusercontent.com/59878203/141533202-d9174858-9d0a-4069-9f65-20d18907d290.png)
   ![Jest](https://img.shields.io/badge/-Jest-C21325?&style=for-the-badge&logo=jest&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)

@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack developer</h3>
 
 👯 I’m looking to collaborate on projects <br />
-📫 How to reach me: charleskasasira01@gmail.com <br />
+📫 How to reach me: charleskasasira01_at_gmail.com <br />
 ⚡ Fun fact: worked as a graphics designer before <br />
 💻<a href="https://kasasira.pages.dev">Checkout my Portfolio</a>
 

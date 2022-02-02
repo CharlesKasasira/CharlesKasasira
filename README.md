@@ -16,6 +16,10 @@
   
 
   <br />
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  
+  
 <h2>🔗 Social Links </h2>
 <p>
   <a href="http://www.linkedin.com/in/charleskasasira" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='linkedin' height='30' margin='50px'> </a> 

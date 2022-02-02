@@ -17,8 +17,6 @@
 
   <br />
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesKasasira&show_icons=true&theme=radical)
-  
   
 <h2>🔗 Social Links </h2>
 <p>

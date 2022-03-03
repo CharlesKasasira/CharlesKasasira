@@ -6,6 +6,8 @@
 ⚡ Fun fact: worked as a graphics designer before <br />
 💻<a href="https://kasasira.pages.dev">Checkout my Portfolio</a>
 
+
+### Code Wars
 ![Code wars](https://www.codewars.com/users/CharlesKasasira/badges/large)
 
  <h2> 🛠 &nbsp;Skills and Tools</h3>

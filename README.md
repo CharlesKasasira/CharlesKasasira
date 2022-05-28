@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img src="./assets/Hi.gif" width="29px">, Charles here</h1>
 <h3 align="center">Software engineer, FE heavy aspiring to design and develop experiences that make people's lives simple</h3>
 
+<img src="https://github.com/CharlesKasasira/CharlesKasasira/blob/main/assets/github_banner(1).png" alt="github banner" width="500" />
+
 👯 I’m looking to collaborate on projects <br />
 📫 How to reach me: charleskasasira01_at_gmail.com <br />
 ⚡ Fun fact: worked as a graphics designer before <br />

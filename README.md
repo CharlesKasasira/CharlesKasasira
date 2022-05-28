@@ -12,12 +12,21 @@
 
  <h2> 🛠 &nbsp;Skills and Tools</h3>
  
- ![html5](https://user-images.githubusercontent.com/59878203/141532551-63afff11-a28f-43a8-b77b-baaf98e7790e.png)
- ![CSS3](https://user-images.githubusercontent.com/59878203/141532802-9ee710af-d3c4-427d-b2b3-8416c36ee1cf.png)
- ![bootstrap](https://user-images.githubusercontent.com/59878203/141532878-adf17acc-e5a4-4a55-9f23-f20891610a98.png)
- ![sass](https://user-images.githubusercontent.com/59878203/141532844-277a3b2f-69ce-425e-bd9a-9f687eb48842.png)
+ ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+ ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+ ![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- ![reactjs](https://user-images.githubusercontent.com/59878203/141533080-02cca125-ebfa-47c0-80a1-2864372b3ce2.png)![Express](https://img.shields.io/badge/-Express-grey?&style=for-the-badge&logo=express&logoColor=white)![Figma](https://user-images.githubusercontent.com/59878203/141533202-d9174858-9d0a-4069-9f65-20d18907d290.png)![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-black?&style=for-the-badge&logo=adobe%20photoshop&logoColor=31a8ff)![Jest](https://img.shields.io/badge/-Jest-C21325?&style=for-the-badge&logo=jest&logoColor=white)![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+ ![reactjs](https://user-images.githubusercontent.com/59878203/141533080-02cca125-ebfa-47c0-80a1-2864372b3ce2.png)
+ ![Express](https://img.shields.io/badge/-Express-grey?&style=for-the-badge&logo=express&logoColor=white)
+ ![Figma](https://user-images.githubusercontent.com/59878203/141533202-d9174858-9d0a-4069-9f65-20d18907d290.png)
+ ![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-black?&style=for-the-badge&logo=adobe%20photoshop&logoColor=31a8ff)
+ ![Jest](https://img.shields.io/badge/-Jest-C21325?&style=for-the-badge&logo=jest&logoColor=white)
+ ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+ ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   
   <br/>
   

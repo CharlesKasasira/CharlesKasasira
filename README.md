@@ -1,7 +1,16 @@
 <h1 align="center">Hi, Charles here</h1>
-<h3 align="center">Software engineer, FE heavy aspiring to design and develop experiences that make people's lives simple</h3>
+<h5 align="center">FE heavy developer who shares his knowledge & experience to create empowered communities.</h5>
 
-<img src="https://github.com/CharlesKasasira/CharlesKasasira/blob/main/assets/github_banner(1).png" alt="github banner" />
+<div id="badges" align="center">
+  <a href="[https://www.youtube.com/manorisms](https://www.youtube.com/channel/UClhrdUmdjbQi9fMq3R65BVw)">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/KasasiraC">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<!-- <img src="https://github.com/CharlesKasasira/CharlesKasasira/blob/main/assets/github_banner(1).png" alt="github banner" /> -->
 
 👯 I’m looking to collaborate on projects <br />
 📫 How to reach me: charleskasasira01_at_gmail.com <br />
@@ -12,7 +21,7 @@
 ### Code Wars
 ![Code wars](https://www.codewars.com/users/CharlesKasasira/badges/large)
 
- <h2> 🛠 &nbsp;Skills and Tools</h3>
+ <h2> 🛠 &nbsp;Tools I work with</h3>
  
  ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

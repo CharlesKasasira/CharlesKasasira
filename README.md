@@ -2,7 +2,7 @@
 <h5 align="center">FE heavy developer who shares his knowledge & experience to create empowered communities.</h5>
 
 <div id="badges" align="center">
-  <a href="[https://www.youtube.com/manorisms](https://www.youtube.com/channel/UClhrdUmdjbQi9fMq3R65BVw)">
+  <a href="https://www.youtube.com/charleskasasira">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/KasasiraC">

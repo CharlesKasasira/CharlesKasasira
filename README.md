@@ -13,8 +13,8 @@
 <!-- <img src="https://github.com/CharlesKasasira/CharlesKasasira/blob/main/assets/github_banner(1).png" alt="github banner" /> -->
 
 👯 I’m looking to collaborate on projects <br />
-📫 How to reach me: charleskasasira01_at_gmail.com <br />
-⚡ Fun fact: worked as a graphics designer before <br />
+📫 How to reach me: me_at_charleskasasira.com <br />
+⚡ Fun fact: worked as a Graphics designer before. still into design (UI and Frontend) <br />
 💻<a href="https://charleskasasira.com">Checkout my Portfolio</a>
 
 

@@ -1,7 +1,7 @@
-<h1 align="center">Hi, Charles here</h1>
-<h5 align="center">FE heavy developer who shares his knowledge & experience to create empowered communities.</h5>
+<h2>Hi, Charles here</h2>
+<h5>Software Developer who shares his knowledge & experience to create empowered communities.</h5>
 
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://www.youtube.com/charleskasasira">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -11,17 +11,17 @@
 </div>
 
 <!-- <img src="https://github.com/CharlesKasasira/CharlesKasasira/blob/main/assets/github_banner(1).png" alt="github banner" /> -->
-
+<!-- 
 👯 I’m looking to collaborate on projects <br />
 📫 How to reach me: me_at_charleskasasira.com <br />
 ⚡ Fun fact: worked as a Graphics designer before. still into design (UI and Frontend) <br />
-💻<a href="https://charleskasasira.com">Checkout my Portfolio</a>
+💻<a href="https://charleskasasira.com">Checkout my Portfolio</a> -->
 
 
-### Code Wars
-![Code wars](https://www.codewars.com/users/CharlesKasasira/badges/large)
+<!-- ### Code Wars -->
+![Code wars](https://www.codewars.com/users/CharlesKasasira/badges/small)
 
- <h2> 🛠 &nbsp;Tools I work with</h3>
+<!--  <h2> 🛠 &nbsp;Tools I work with</h3>
  
  ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,9 +37,9 @@
  ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+ ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) -->
   
-  <br/>
+<!--   <br/>
   
 
   <br />
@@ -54,7 +54,7 @@
 <a href="https://www.stackoverflow.com/users/13582824/charles-kasasira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/KasasiraC" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
-<br/>
+<br/> -->
 
 
 ![Profile views](https://gpvc.arturio.dev/CharlesKasasira)

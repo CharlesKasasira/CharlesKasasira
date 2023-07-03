@@ -1,4 +1,7 @@
-<h2>Hi, Charles here</h2>
+## Hi, Charles here
+
+<hr>
+
 <h5>Software Developer who shares his knowledge & experience to create empowered communities.</h5>
 
 <div id="badges">
@@ -14,13 +17,9 @@
 
 <hr>
 
-
 <h2>RENU ITP LOG 2023</h2>
 
-
-| Week | Learned |
-|--- | ---|
-| 1 | |
-| 2 | Day 1: OS & VCS |
-
-
+| Week | Day 1    | Day 2 | Day 3 | Day 4 | Day 5 | Sum up |
+| ---- | -------- | ----- | ----- | ----- | ----- | ------ |
+| 1    | Onboarding | Introduction to Office Staff and Operations; Goals of the Industrial Training Program. | Prerequisite software | Installation of Prerequisite software | SSH key-based authentication on a Linux server |
+| 2    | OS & VCS | | | | | |

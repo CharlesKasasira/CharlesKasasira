@@ -18,3 +18,9 @@
 <h2>RENU ITP LOG 2023</h2>
 
 
+| Week | Learned |
+|--- | ---|
+| 1 | |
+| 2 | Day 1: OS & VCS |
+
+

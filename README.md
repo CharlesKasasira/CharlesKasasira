@@ -25,4 +25,4 @@
 | Week | Monday    | Tuesday | Wednesday | Thursday | Friday | Sum up |
 | ---- | -------- | ----- | ----- | ----- | ----- | ------ |
 | 1    | Onboarding | Introduction to Office Staff and Operations; Goals of the Industrial Training Program. | Prerequisite software | Installation of Prerequisite software | SSH key-based authentication on a Linux server | ✅ |
-| 2    | OS & VCS | | | | | ⏳ |
+| 2    | OS & VCS | Virtualization & Containerization | | | | ⏳ |

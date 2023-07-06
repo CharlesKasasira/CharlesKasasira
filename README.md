@@ -20,7 +20,8 @@
 
 <hr>
 
-<h2>RENU ITP LOG 2023</h2>
+<h2>RENU ITP LOG 2023</h2> 
+[Detailed](https://github.com/CharlesKasasira/RENU_ITP_2023)
 
 | Week | Monday    | Tuesday | Wednesday | Thursday | Friday | Sum up |
 | ---- | -------- | ----- | ----- | ----- | ----- | ------ |

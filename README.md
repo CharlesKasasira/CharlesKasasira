@@ -21,11 +21,10 @@
 <hr>
 
 <h2>RENU ITP LOG 2023</h2> 
-[Detailed](https://github.com/CharlesKasasira/RENU_ITP_2023)
 
 [Detailed Log](https://github.com/CharlesKasasira/RENU_ITP_2023)
 
 | Week | Monday    | Tuesday | Wednesday | Thursday | Friday | Sum up |
 | ---- | -------- | ----- | ----- | ----- | ----- | ------ |
 | 1    | Onboarding | Introduction to Office Staff and Operations; Goals of the Industrial Training Program. | Prerequisite software | Installation of Prerequisite software | SSH key-based authentication on a Linux server | ✅ [Link](https://github.com/CharlesKasasira/RENU_ITP_2023/blob/main/README.md#Week-1) |
-| 2    | OS & VCS | Virtualization & Containerization | | | | ⏳ |
+| 2    | OS & VCS | Virtualization & Containerization | Set up Pi-hole | | | ⏳ |

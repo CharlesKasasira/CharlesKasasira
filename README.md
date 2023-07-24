@@ -30,4 +30,4 @@
 | 2    | OS & VCS                                                          | Virtualization & Containerization                                                      | Set up Pi-hole        | Active Directory on Windows Server. Project | Active Directory                               | ✅ [Link](https://github.com/CharlesKasasira/RENU_ITP_2023/blob/main/README.md#Week-2) |
 | 3    | - Project Brainstorm(choose of language, SDLC) - Networking Recap | - Layer-2 switch functions - Lan switch types                                          | - VLANS               | - TCP/IP                                    | - Technical Department Meeting                 | ✅ [Link](https://github.com/CharlesKasasira/RENU_ITP_2023/blob/main/README.md#Week-2) |
 | 4 | -Routing and Routed Protocols | - Packet Tracer | - Visited RENU's Data Center | - Wireless Concepts | Career Talk from ED UCC | ✅ [Link](https://github.com/CharlesKasasira/RENU_ITP_2023/blob/main/README.md#Week-2) |
-| 5 |  |  |  |  | | ⏳ |
+| 5 | <ul><li>○	The Linux Shell (Bash)</li><li>○ Navigation of the filesystem in Linux</li></ul>  |  |  |  | | ⏳ |

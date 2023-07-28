@@ -1,8 +1,9 @@
 <h3 align="center">👋 Hello! Charles here.</h3>
 
-<!-- <h5>Software Developer who shares his knowledge & experience to create empowered communities.</h5> -->
+Astronaut, accountant, doctor, lawyer, investment banker and CEO - I'm none of these things. but I like to mess around with the computer.
 
 - 👨🏾‍💻 Intern - [RENU](https://renu.ac.ug)
+- 👩🏾‍🚀 Space visits - 0
 - 👨🏾‍🎓 pursuing a B.S. in Computer Science
 - 📩 me_at_charleskasasira.me
 - 🧭 [charleskasasira.me](https://charleskasasira.me)

@@ -24,5 +24,12 @@ jobs:
           fi
       - name: Update README
         run: |
-          cat greeting.md README.md > tempREADME.md
-          mv tempREADME.md README.md
+          time=$(date +"%T")
+          hour=${time:0:2}
+          if [[ $hour -ge 5 && $hour -lt 12 ]]; then
+            sed -i 's|<morning-greeting>|Good morning, ${{ github.actor }}!|' README.md
+          elif [[ $hour -ge 12 && $hour -lt 17 ]]; then
+            sed -i 's|<morning-greeting>|Good afternoon, ${{ github.actor }}!|' README.md
+          else
+            sed -i 's|<morning-greeting>|Good evening, ${{ github.actor }}!|' README.md
+          fi

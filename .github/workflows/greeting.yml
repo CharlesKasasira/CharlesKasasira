@@ -1,0 +1,28 @@
+name: Personalized Greeting
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Personalized Greeting
+        id: greeting
+        uses: actions/checkout@v2
+      - name: Set Greeting
+        run: |
+          time=$(date +"%T")
+          hour=${time:0:2}
+          if [[ $hour -ge 5 && $hour -lt 12 ]]; then
+            echo "Good morning, \${{ github.actor }}!" > greeting.md
+          elif [[ $hour -ge 12 && $hour -lt 17 ]]; then
+            echo "Good afternoon, \${{ github.actor }}!" > greeting.md
+          else
+            echo "Good evening, \${{ github.actor }}!" > greeting.md
+          fi
+      - name: Update README
+        run: |
+          cat greeting.md README.md > tempREADME.md
+          mv tempREADME.md README.md

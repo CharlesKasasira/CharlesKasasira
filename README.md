@@ -4,7 +4,7 @@ Astronaut, accountant, doctor, lawyer, investment banker and CEO - I'm none of t
 
 - 👨🏾‍💻 Intern - [RENU](https://renu.ac.ug)
 - 👩🏾‍🚀 Space visits - 0
-- 👨🏾‍🎓 pursuing a B.S. in Computer Science
+- 👨🏾‍🎓 pursuing a BSc. in Computer Science
 - 📩 me_at_charleskasasira.me
 - 🧭 [charleskasasira.me](https://charleskasasira.me)
 

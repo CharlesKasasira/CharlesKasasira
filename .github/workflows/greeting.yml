@@ -2,7 +2,7 @@ name: Personalized Greeting
 
 on:
   schedule:
-    - cron: "5 * * * *"
+    - cron: "6 * * * *"
 
 jobs:
   build:
@@ -16,20 +16,15 @@ jobs:
           time=$(date +"%T")
           hour=${time:0:2}
           if [[ $hour -ge 5 && $hour -lt 12 ]]; then
-            echo "Good morning, \${{ github.actor }}!" > greeting.md
-          elif [[ $hour -ge 12 && $hour -lt 17 ]]; then
-            echo "Good afternoon, \${{ github.actor }}!" > greeting.md
-          else
-            echo "Good evening, \${{ github.actor }}!" > greeting.md
-          fi
-      - name: Update README
-        run: |
-          time=$(date +"%T")
-          hour=${time:0:2}
-          if [[ $hour -ge 5 && $hour -lt 12 ]]; then
             sed -i 's|<morning-greeting>|Good morning, ${{ github.actor }}!|' README.md
           elif [[ $hour -ge 12 && $hour -lt 17 ]]; then
             sed -i 's|<morning-greeting>|Good afternoon, ${{ github.actor }}!|' README.md
           else
             sed -i 's|<morning-greeting>|Good evening, ${{ github.actor }}!|' README.md
           fi
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'CharlesKasasira'
+          git config --global user.email 'charleskasasira01@gmail.com'
+          git commit -am "Update greeting in README"
+          git push

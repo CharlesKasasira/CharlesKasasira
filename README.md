@@ -17,6 +17,7 @@ Astronaut, accountant, doctor, lawyer, investment banker and CEO - I'm none of t
   </a>
 </div>
 
+![tryhackme stats](https://raw.githubusercontent.com/CharlesKasasira/CharlesKasasira/master/assets/thm_propic.png)
 ![Code wars](https://www.codewars.com/users/CharlesKasasira/badges/small)
 
 <hr>

@@ -22,7 +22,7 @@ Astronaut, accountant, doctor, lawyer, investment banker and CEO - I'm none of t
 
 <hr>
 
-### RENU ITP Log 2023 Summary Table | [Check Detailed Log Here](https://github.com/CharlesKasasira/RENU_ITP_2023)
+### RENU ITP Log 2023 Summary Table | [Check Detailed Log Here](https://github.com/CharlesKasasira/RENU_ITP_2023/#renu-industrial-training-program-2023)
 
 | Week | Monday                                                            | Tuesday                                                                                | Wednesday             | Thursday                                    | Friday                                         | Sum-up                                                                                 |
 | ---- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------- |

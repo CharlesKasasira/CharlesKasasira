@@ -2,7 +2,6 @@
 
 Astronaut, accountant, doctor, lawyer, investment banker and CEO - I'm none of these things. but I like to mess around with the computer.
 
-- 👨🏾‍💻 Intern - [RENU](https://renu.ac.ug)
 - 👩🏾‍🚀 Space visits - 0
 - 👨🏾‍🎓 pursuing a BSc. in Computer Science
 - 📩 me_at_charleskasasira.me

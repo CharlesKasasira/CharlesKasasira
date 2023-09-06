@@ -3,7 +3,7 @@
 Astronaut, accountant, doctor, lawyer, investment banker and CEO - I'm none of these things. but I like to mess around with the computer.
 
 - 👩🏾‍🚀 Space visits - 0
-- 👨🏾‍🎓 pursuing a BSc. in Computer Science
+- 👨🏾‍🎓 Finalist Computer Science
 - 📩 me_at_charleskasasira.me
 - 🧭 [charleskasasira.me](https://charleskasasira.me)
 
@@ -32,4 +32,4 @@ Astronaut, accountant, doctor, lawyer, investment banker and CEO - I'm none of t
 | 5 | <ul><li>The Linux Shell (Bash)</li><li>Navigation of the filesystem in Linux</li></ul>  | <ul><li>Linux Editors <ul><li>Nano</li><li>Vi</li><li>Vim</li></ul></li></ul> | <ul><li>Automation</li><ul><li>Ansible</li><li>Scripting</li><li>Cronjobs</li></ul></ul>  | <ul><li>Project Review</li><li>Securing a web app <ul><li>OWASP-10</li></ul></li></ul>  | <ul><li>Read about Webmin</li><li>Talk about GPA (Group Personal Accident)</li></ul> | ✅ [Link](https://github.com/CharlesKasasira/RENU_ITP_2023/blob/main/README.md#week-4-17th-21th-july) |
 | 6 | <ul><li>Network Monitoring & Mgt</li><ul><li>Cacti</li><li>LibreNMS</li><li>Nagios</li></ul> | <ul><li>HelpDesk</li><li>NfSen</li></ul></ul> | <ul><li>Microwave Links</li><li>Eduroam on the Go</li></ul>  | <ul><li>Project Reviews</li></ul>  | <ul><li>Testing and Code Quality</li><li>GitHub Actions</li></ul> | ✅ [Link](https://github.com/CharlesKasasira/RENU_ITP_2023/blob/main/README.md#week-6-31st-4th-august) |
 | 7 | <ul><li>DNS</li><li>Setup a Webhook</li><li>Webhook vs API</li></ul>  | <ul><li>Logs</li><li>Cron tasks</li><li>Backup</li></ul>  | <ul><li>Routing Game</li></ul>  | <ul><li>Configured DNS using `bind`</li><li>Project Review</li><li></li></ul>  | <ul><li>Server Management (Configurations)</li><li>Created a systemd for gunicorn (`timesaver`)</li></ul> | ✅ [Link](https://github.com/CharlesKasasira/RENU_ITP_2023/blob/main/README.md#week-6-31st-4th-august) |
-| 8 |   |   |  |   |  | ⏳ |
+| 8 | <ul><li>Web server proxies</li><li>Databases</li></ul>  | <ul><li>Firewalls</li><li>General good security practices</li></ul>  | <ul><li>SSL certificate</li></ul>  | <ul><li>End of Project</li></ul>  | <ul><li>CJ Treat</li></ul> | ✅ [Link](https://github.com/CharlesKasasira/RENU_ITP_2023/blob/main/README.md#week-6-31st-4th-august) |

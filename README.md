@@ -1,4 +1,6 @@
-<h3 align="center">👋 Hello!, Charles here.</h3>
+<!-- <h3 align="center">👋 Hello!, Charles here.</h3> -->
+
+![Charles Kasasira](/assets/github_intro.png)
 
 Astronaut, accountant, doctor, lawyer, investment banker and CEO - I'm none of these things. but I like to mess around with the computer.
 

@@ -21,7 +21,7 @@ Astronaut, accountant, doctor, lawyer, investment banker and CEO - I'm none of t
 ![tryhackme stats](https://raw.githubusercontent.com/CharlesKasasira/CharlesKasasira/master/assets/thm_propic.png)
 ![Code wars](https://www.codewars.com/users/CharlesKasasira/badges/small)
 
-<a href="https://10fastfingers.com/typing-test/english"><img src="http://img.10fastfingers.com/badge/typing-test_1_BC.png" alt="Typing Test" /></a><p>Visit the <a href="https://10fastfingers.com/typing-test/english">Typing Test</a> and try!</p>
+<a href="https://10fastfingers.com/typing-test/english"><img src="http://img.10fastfingers.com/badge/typing-test_1_BI.png" alt="Typing Test" /></a><p>Visit the <a href="https://10fastfingers.com/typing-test/english">Typing Test</a> and try!</p>
 
 <hr>
 

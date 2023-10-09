@@ -21,6 +21,8 @@ Astronaut, accountant, doctor, lawyer, investment banker and CEO - I'm none of t
 ![tryhackme stats](https://raw.githubusercontent.com/CharlesKasasira/CharlesKasasira/master/assets/thm_propic.png)
 ![Code wars](https://www.codewars.com/users/CharlesKasasira/badges/small)
 
+<a href="https://10fastfingers.com/typing-test/english"><img src="http://img.10fastfingers.com/badge/typing-test_1_BC.png" alt="Typing Test" /></a><p>Visit the <a href="https://10fastfingers.com/typing-test/english">Typing Test</a> and try!</p>
+
 <hr>
 
 ### RENU ITP Log 2023 Summary Table | [Check Detailed Log Here](https://github.com/CharlesKasasira/RENU_ITP_2023/#renu-industrial-training-program-2023)

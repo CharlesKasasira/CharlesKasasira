@@ -5,9 +5,9 @@
 Astronaut, accountant, doctor, lawyer, investment banker and CEO - I'm none of these things. but I like to mess around with the computer.
 
 - 👩🏾‍🚀 Space visits - 0
-- 👨🏾‍🎓 Finalist Computer Science
-- 📩 me_at_charleskasasira.me
-- 🧭 [charleskasasira.me](https://charleskasasira.me)
+- 👨🏾‍🎓 Computer Scientist
+- 📩 me_at_charleskasasira.com
+- 🧭 [charleskasasira.com](https://charleskasasira.com)
 
 <div id="badges">
   <a href="https://www.youtube.com/charleskasasira">
